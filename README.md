@@ -1,4 +1,4 @@
-# Cookiecutter template for Git Repos
+# Cookiecutter template for Terraform Modules
 
 This repo contains a Cookiecutter template which scaffolds an empty Terraform module.
 
